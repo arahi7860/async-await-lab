@@ -10,6 +10,7 @@ function fetchData(country) {
 }
 
 // Step 2: Rewrite Step 1 using Try/Catch & Async/Await
+// Be sure to comment out your Step 1 function before writing the new function
 
 function fetchData(country) {
   const url = `https://restcountries.eu/rest/v2/name/${country}?fullText=true`

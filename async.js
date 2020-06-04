@@ -1,7 +1,7 @@
 // Async/Await w/ Try/Catch
 // API docs https://restcountries.eu/#api-endpoints-full-name
 
-// Step 1: Fetch Country data
+// Step 1: Fetch Country data using .then()
 
 function fetchData(country) {
 // Get country data

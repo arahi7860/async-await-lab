@@ -38,7 +38,7 @@ function fetchData(country) {
   // Write the rest of the code here.
 }
 ```
-## Step 2: Rewrite function using Try/Catch & Async/Await
+## Step 2: Rewrite Step 1 function using Try/Catch & Async/Await
 
 ```javascript
 // Convert this starter code

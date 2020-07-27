@@ -1,19 +1,20 @@
 // Async/Await w/ Try/Catch
 // API docs https://restcountries.eu/#api-endpoints-full-name
 
-// Step 1: Fetch Country data
+// Step 1: Fetch Country data using .then()
 
 function fetchData(country) {
 // Get country data
   const url = `https://restcountries.eu/rest/v2/name/${country}?fullText=true`
-  // Write the rest of the code here.
+  // Write code here.
 }
 
-// Step 2: Rewrite using Try/Catch & Async/Await
+// Step 2: Rewrite Step 1 using Try/Catch & Async/Await
+// Be sure to comment out your Step 1 function before writing the new function
 
 function fetchData(country) {
   const url = `https://restcountries.eu/rest/v2/name/${country}?fullText=true`
-  // Write the rest of the code here.
+  // Write code here.
 }
 // Step 3: Create dynamic HTML
 

@@ -18,9 +18,9 @@ function fetchData(country) {
 // }
 // Step 3: Create dynamic HTML
 
-function showCountryData(data) {
-  // ???
-}
+// function showCountryData(data) {
+//   // ???
+// }
 
 // Step 4: Append Country Data
 
